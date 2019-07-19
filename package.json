@@ -1,0 +1,19 @@
+{
+  "name": "angulartestjenkins",
+  "version": "1.0.0",
+  "description": "Project with Angular and Integration with Jenkins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spro80/angularTestJenkins.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spro80/angularTestJenkins/issues"
+  },
+  "homepage": "https://github.com/spro80/angularTestJenkins#readme"
+}
